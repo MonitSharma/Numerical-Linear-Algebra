@@ -42,4 +42,58 @@ Another application og SVD is to identify the people and remove the background o
 <li> History of Gaussian Elimination
 <li> Block Matrix Multiplication 
 
+
+### 4. Compressed Sensing with Robust Regression
+
+Compressed sensing is critical to allowing CT scans with lower radiation-- the image can be reconstructed with less data. Here we will learn the technique and apply it to CT images.
+
+<li> Broadcasting
+<li> Sparse Matrices
+<li> CT Scans and Compressed Sensing
+<li> L1 and L2 regression
+
+
+### 5. Predicting Health Outcomes with Linear Regressions
+
+<li> Linear Regression in sklearn
+<li> Polynomial Features
+<li> Speeding up with Numba
+<li> Regularization and Noise
+
+
+###. How to Implement Linear Regression?
+
+<li> How did Scikit learn to do it?
+<li> Naive Solution
+<li> Normal equation and Cholesky factorization
+<li> QR Factorization
+<li> SVD
+<li> Timing Comparison
+<li> Conditioning and Stability
+<li> Full vs Reduced Factorization
+<li> Matrix Inversion is Unstable
+
+
+
+### 7. Page Rank with Eigen Decompositon
+
+We have applied SVD to topic modeling, background removal, and linear regression. SVD is intimately connected to the eigen decomposition, so we will now learn how to calculate eigenvalues for a large matrix. We will use DBpedia data, a large dataset of Wikipedia links, because here the principal eigenvector gives the relative importance of different Wikipedia pages (this is the basic idea of Google's PageRank algorithm). We will look at 3 different methods for calculating eigenvectors, of increasing complexity (and increasing usefulness!)
+
+<li> SVD
+<li> DBpedia Dataset
+<li> Power Method
+<li> QR algorithm
+<li> Two-Phase Approach to find eigen values
+<li> Arnoldi Iteration
+
+
+
+### 8. Implementing QR Factorization
+
+<li> Gram-Schmidt
+<li> House Holder
+<li> Stability Examples
+
+
+
     
