@@ -61,7 +61,7 @@ Compressed sensing is critical to allowing CT scans with lower radiation-- the i
 <li> Regularization and Noise
 
 
-###. How to Implement Linear Regression?
+### 6. How to Implement Linear Regression?
 
 <li> How did Scikit learn to do it?
 <li> Naive Solution
