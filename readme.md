@@ -7,7 +7,7 @@ The course is taught in python with jupyter notebooks, using libraries like Scik
 
 ## Table of Contents
 
-### 1. Why are we here?
+### 1. [Why are we here?](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/week_1_introduction_to_matrices.ipynb)
 
 We start with a high level overview of some foundational concepts in numerical linear algebra.
 <li> Matrix and tensor products
