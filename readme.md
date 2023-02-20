@@ -17,7 +17,7 @@ We start with a high level overview of some foundational concepts in numerical l
 <li> Speed 
 <li> Parallelization & vectorization
 
-### 2. Topic Modeling with NMF and SVD 
+### 2. [Topic Modeling with NMF and SVD](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/week_2_singular_value_decomposition.ipynb) 
 
 We will use the newsgroups datasets to try to identify the topics of different posts. We use a term-document matrix that represents the frequency of the vocabulary.
 <li> Topic Frequency - Inverse Document Frequency (TF-IDF)
@@ -27,7 +27,7 @@ We will use the newsgroups datasets to try to identify the topics of different p
 <li> Intro to PyTorch
 <li> Truncated SVD
 
-### 3. Background Removal with Robust PCA
+### 3. [Background Removal with Robust PCA](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/week_4_background_removal_with_robust_PCA.ipynb)
 
 Another application og SVD is to identify the people and remove the background of a surveillance video. We will cover robust PCA, which uses randomized SVD which in turn uses the LU factorization
 
@@ -43,7 +43,7 @@ Another application og SVD is to identify the people and remove the background o
 <li> Block Matrix Multiplication 
 
 
-### 4. Compressed Sensing with Robust Regression
+### 4. [Compressed Sensing with Robust Regression](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/week_5_compressed_sensing_CT_scans_robust_regression.ipynb)
 
 Compressed sensing is critical to allowing CT scans with lower radiation-- the image can be reconstructed with less data. Here we will learn the technique and apply it to CT images.
 
@@ -53,7 +53,7 @@ Compressed sensing is critical to allowing CT scans with lower radiation-- the i
 <li> L1 and L2 regression
 
 
-### 5. Predicting Health Outcomes with Linear Regressions
+### 5. [Predicting Health Outcomes with Linear Regressions](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/week_6_health_outcomes_with_linear_regression.ipynb)
 
 <li> Linear Regression in sklearn
 <li> Polynomial Features
@@ -61,7 +61,7 @@ Compressed sensing is critical to allowing CT scans with lower radiation-- the i
 <li> Regularization and Noise
 
 
-### 6. How to Implement Linear Regression?
+### 6. [How to Implement Linear Regression?](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/week_7_how_to_implement_linear_regression.ipynb)
 
 <li> How did Scikit learn to do it?
 <li> Naive Solution
@@ -75,7 +75,7 @@ Compressed sensing is critical to allowing CT scans with lower radiation-- the i
 
 
 
-### 7. Page Rank with Eigen Decompositon
+### 7. [Page Rank with Eigen Decompositon](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/week_8_page_rank_with_eigen_decomposition.ipynb)
 
 We have applied SVD to topic modeling, background removal, and linear regression. SVD is intimately connected to the eigen decomposition, so we will now learn how to calculate eigenvalues for a large matrix. We will use DBpedia data, a large dataset of Wikipedia links, because here the principal eigenvector gives the relative importance of different Wikipedia pages (this is the basic idea of Google's PageRank algorithm). We will look at 3 different methods for calculating eigenvectors, of increasing complexity (and increasing usefulness!)
 
@@ -88,11 +88,7 @@ We have applied SVD to topic modeling, background removal, and linear regression
 
 
 
-### 8. Implementing QR Factorization
 
-<li> Gram-Schmidt
-<li> House Holder
-<li> Stability Examples
 
 
 
