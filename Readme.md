@@ -4,19 +4,19 @@ This repository is aimed at providing an introduction to the basics of linear al
 
 -----
 
-## Introduction to Linear Algebra
+## [Introduction to Linear Algebra](https://github.com/MonitSharma/Numerical-Linear-Algebra/tree/main/Basic%20Numerical%20Linear%20Algebra)
 This section of the repository will cover the basics of linear algebra. It will include topics such as vectors, matrices, linear transformations, and eigenvalues/eigenvectors. The content will be presented in a way that is accessible to beginners, with examples and exercises to solidify understanding.
 
 ----
 
-## Advanced Computational Numerical Linear Algebra
+## [Advanced Computational Numerical Linear Algebra](https://github.com/MonitSharma/Numerical-Linear-Algebra/tree/main/Advanced%20Numerical%20Linear%20Algebra)
 This section of the repository will cover advanced topics in computational numerical linear algebra. It will include topics such as singular value decomposition (SVD), QR decomposition, and LU decomposition. The content will be presented with a focus on their applications in quantum computing, and will include exercises and projects to solidify understanding.
 
 
 -----
 
 
-## Applications in Quantum Computing
+## [Applications in Quantum Computing](https://github.com/MonitSharma/Qiskit-Hindi-Tutorials/blob/main/qiskit_hindi_basic_gates_part2.ipynb)
 This section of the repository will cover the applications of linear algebra and computational numerical linear algebra in quantum computing. It will include topics such as quantum gates, quantum circuits, and quantum algorithms. The content will be presented in a way that is accessible to beginners, with examples and exercises to solidify understanding.
 
 ----
@@ -43,7 +43,7 @@ pip install jupyter
 To get started, simply clone the repository:
 
 ```python
-git clone https://github.com/<username>/<repository>.git
+git clone https://github.com/MonitSharma/Numerical-Linear-Algebra.git
 ```
 
 -----
