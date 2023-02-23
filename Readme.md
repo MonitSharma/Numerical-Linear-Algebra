@@ -1,4 +1,4 @@
-# Linear Algebra and Computational Numerical Linear Algebra for Quantum Computing
+# Linear Algebra for Quantum Computing
 
 This repository is aimed at providing an introduction to the basics of linear algebra and advanced computational numerical linear algebra with a focus on applications in quantum computing.
 
@@ -7,10 +7,41 @@ This repository is aimed at providing an introduction to the basics of linear al
 ## [Introduction to Linear Algebra](https://github.com/MonitSharma/Numerical-Linear-Algebra/tree/main/Basic%20Numerical%20Linear%20Algebra)
 This section of the repository will cover the basics of linear algebra. It will include topics such as vectors, matrices, linear transformations, and eigenvalues/eigenvectors. The content will be presented in a way that is accessible to beginners, with examples and exercises to solidify understanding.
 
+| Serial Number | Title                                     | Description                                         | Links                                                                                     |
+| ------------- | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 1             | Scalars, vectors, matrices and tensors    | Introduction to basic concepts in linear algebra    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+| 2             | Multiplying matrices and vectors          | Understanding how matrix multiplication works       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+| 3             | Identity and inverse matrices             | Explanation of identity and inverse matrices        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+| 4             | Linear dependence and span                 | Understanding linear dependence and span of vectors | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+| 5             | Norms                                     | Definition and examples of vector norms             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+| 6             | Special kind of matrices                   | Introduction to special types of matrices           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+| 7             | Eigendecomposition                         | Understanding eigenvectors and eigenvalues          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+| 8             | Singular value decomposition               | Introduction to singular value decomposition        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+| 9             | The Moore-Penrose pseudoinverse            | Definition and applications of the pseudoinverse    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+| 10            | The trace operator                        | Definition and properties of the trace operator    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+| 11            | The determinant                           | Explanation of the determinant of a matrix         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+
+
+
+
 ----
 
 ## [Advanced Computational Numerical Linear Algebra](https://github.com/MonitSharma/Numerical-Linear-Algebra/tree/main/Advanced%20Numerical%20Linear%20Algebra)
 This section of the repository will cover advanced topics in computational numerical linear algebra. It will include topics such as singular value decomposition (SVD), QR decomposition, and LU decomposition. The content will be presented with a focus on their applications in quantum computing, and will include exercises and projects to solidify understanding.
+
+
+| Serial Number | Title                                | Description                                                           | Links                                                                                     |
+| ------------- | ------------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 1             | Introduction to matrices             | Overview of matrices and their properties, operations, and applications | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+| 2             | Singular Value Decomposition         | Introduction to singular value decomposition and its applications     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+| 3             | Topic Modelling with NMF              | Explanation of Non-negative Matrix Factorization for topic modeling  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+| 4             | Background Removal                   | Techniques for removing the background from images using linear algebra | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+| 5             | Compressed Sensing CT scans           | Using compressed sensing for faster and more efficient CT scans      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+| 6             | Health outcomes with linear algebra  | Applications of linear algebra in healthcare and medical research   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+| 7             | Linear regression                    | Introduction to linear regression and its applications               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+| 8             | Page rank with eigen decomposition   | Explanation of PageRank algorithm using eigendecomposition            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_file) |
+
+
 
 
 -----
