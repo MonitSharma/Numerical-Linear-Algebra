@@ -1,11 +1,18 @@
 # Linear Algebra for Quantum Computing
 
+
+![](https://tikz.net/files/vectors.gif)
+
+
 This repository is aimed at providing an introduction to the basics of linear algebra and advanced computational numerical linear algebra with a focus on applications in quantum computing.
 
 -----
 
 ## [Introduction to Linear Algebra](https://github.com/MonitSharma/Numerical-Linear-Algebra/tree/main/Basic%20Numerical%20Linear%20Algebra)
 This section of the repository will cover the basics of linear algebra. It will include topics such as vectors, matrices, linear transformations, and eigenvalues/eigenvectors. The content will be presented in a way that is accessible to beginners, with examples and exercises to solidify understanding.
+
+
+![](https://tikz.net/files/reference_frame_rotational.gif)
 
 | Serial Number | Title                                     | Description                                         | Links                                                                                     |
 | ------------- | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -30,6 +37,10 @@ This section of the repository will cover the basics of linear algebra. It will 
 This section of the repository will cover advanced topics in computational numerical linear algebra. It will include topics such as singular value decomposition (SVD), QR decomposition, and LU decomposition. The content will be presented with a focus on their applications in quantum computing, and will include exercises and projects to solidify understanding.
 
 
+![](https://tikz.net/janosh/tori.png)
+
+
+
 | Serial Number | Title                                | Description                                                           | Links                                                                                     |
 | ------------- | ------------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | 1             | Introduction to matrices             | Overview of matrices and their properties, operations, and applications | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/Advanced%20Numerical%20Linear%20Algebra/week_1_introduction_to_matrices.ipynb) |
@@ -48,7 +59,12 @@ This section of the repository will cover advanced topics in computational numer
 
 
 ## [Applications in Quantum Computing](https://github.com/MonitSharma/Qiskit-Hindi-Tutorials/blob/main/qiskit_hindi_basic_gates_part2.ipynb)
-This section of the repository will cover the applications of linear algebra and computational numerical linear algebra in quantum computing. It will include topics such as quantum gates, quantum circuits, and quantum algorithms. The content will be presented in a way that is accessible to beginners, with examples and exercises to solidify understanding.
+
+![](https://tikz.net/files/complex.gif)
+
+
+This section of the repository will cover the applications of linear algebra and computational numerical linear algebra in quantum computing. It will include topics such as quantum gates, quantum circuits, and quantum algorithms. The content will be presented in a way that is accessible to beginners, with examples and exercises to solidify understanding. This will be covered in detail in another repository.
+
 
 ----
 
@@ -108,6 +124,6 @@ This repository is licensed under the MIT License.
 ## Acknowledgements
 We would like to thank the following resources for their contribution to this repository:
 
-Linear Algebra - Khan Academy
-Numerical Linear Algebra for Coders - Fast.ai
-Quantum Computing for the Very Curious - IBM
+1. Linear Algebra - Khan Academy
+2. Numerical Linear Algebra for Coders - Fast.ai
+3. Quantum Computing for the Very Curious - IBM
