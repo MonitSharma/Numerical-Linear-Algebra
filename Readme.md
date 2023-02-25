@@ -70,17 +70,17 @@ which is a tensor product of the identity matrix and the Pauli-X gate.
 ### Single-qubit Gates
 Single-qubit gates operate on the state of a single qubit. The most commonly used single-qubit gates are the Pauli gates:
 
-$$X = \begin{pmatrix}0 & 1 \ 1 & 0\end{pmatrix},\quad Y = \begin{pmatrix}0 & -i \ i & 0\end{pmatrix},\quad Z = \begin{pmatrix}1 & 0 \ 0 & -1\end{pmatrix}$$
+$$X = \begin{pmatrix}0 & 1 \\\ 1 & 0\end{pmatrix},\quad Y = \begin{pmatrix}0 & -i \\\ i & 0\end{pmatrix},\quad Z = \begin{pmatrix}1 & 0 \\\ 0 & -1\end{pmatrix}$$
 
 The Pauli-X gate, also known as the NOT gate, flips the state of a qubit from $\ket{0}$ to $\ket{1}$ and vice versa. The Pauli-Y gate and Pauli-Z gate perform rotations around the Y and Z axes of the Bloch sphere, respectively.
 
 Other commonly used single-qubit gates include the Hadamard gate:
 
-$$H = \frac{1}{\sqrt{2}}\begin{pmatrix}1 & 1 \ 1 & -1\end{pmatrix}$$
+$$H = \frac{1}{\sqrt{2}}\begin{pmatrix}1 & 1 \\\ 1 & -1\end{pmatrix}$$
 
 which creates a superposition of the $\ket{0}$ and $\ket{1}$ states, and the phase gate:
 
-$$S = \begin{pmatrix}1 & 0 \ 0 & i\end{pmatrix}$$
+$$S = \begin{pmatrix}1 & 0 \\\ 0 & i\end{pmatrix}$$
 
 which introduces a phase shift of $\pi/2$ to the $\ket{1}$ state.
 
@@ -88,13 +88,13 @@ which introduces a phase shift of $\pi/2$ to the $\ket{1}$ state.
 ### Multi-qubit Gates
 Multi-qubit gates operate on the state of two or more qubits. The most commonly used multi-qubit gate is the controlled-NOT (CNOT) gate:
 
-$$\text{CNOT} = \begin{pmatrix}1 & 0 & 0 & 0 \ 0 & 1 & 0 & 0 \ 0 & 0 & 0 & 1 \ 0 & 0 & 1 & 0\end{pmatrix}$$
+$$\text{CNOT} = \begin{pmatrix}1 & 0 & 0 & 0 \\\ 0 & 1 & 0 & 0 \\\ 0 & 0 & 0 & 1 \\\ 0 & 0 & 1 & 0\end{pmatrix}$$
 
 The CNOT gate flips the state of the target qubit if and only if the control qubit is in the $\ket{1}$ state. The CNOT gate is often used as a building block for more complex multi-qubit gates and quantum algorithms.
 
 Another important multi-qubit gate is the SWAP gate:
 
-$$\text{SWAP} = \begin{pmatrix}1 & 0 & 0 & 0 \ 0 & 0 & 1 & 0 \ 0 & 1 & 0 & 0 \ 0 & 0 & 0 & 1\end{pmatrix}$$
+$$\text{SWAP} = \begin{pmatrix}1 & 0 & 0 & 0 \\\ 0 & 0 & 1 & 0 \\\ 0 & 1 & 0 & 0 \\\ 0 & 0 & 0 & 1\end{pmatrix}$$
 
 The SWAP gate exchanges the state of two qubits. The SWAP gate is a crucial component of many quantum algorithms, particularly those related to quantum error correction.
 
