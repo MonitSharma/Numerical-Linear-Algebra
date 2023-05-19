@@ -18,13 +18,12 @@ Quantum states are represented as vectors in a complex vector space. The state o
 $$\begin{pmatrix} \alpha \\\ \beta \end{pmatrix}$$
 
 
-
-
 In quantum computing, the state of a qubit (a quantum bit) can be represented as a vector in a two-dimensional complex vector space, commonly denoted as $\mathbb{C}^2$. A qubit can exist in a superposition of two classical states, represented as $\ket{0}$ and $\ket{1}$, with probability amplitudes $\alpha$ and $\beta$, respectively. The state of the qubit can be represented as a linear combination of the basis states:
 
 $$\ket{\psi}=\alpha\ket{0}+\beta\ket{1}$$
 
-where $\alpha,\beta\in\mathbb{C}$ and $|\alpha|^2+|\beta|^2=1$. The complex numbers $\alpha$ and $\beta$ are referred to as probability amplitudes, and the probability of measuring the qubit in state $\ket{0}$ or $\ket{1}$ is given by $|\alpha|^2$ and $|\beta|^2$, respectively. The state $\ket{\psi}$ is normalized such that the sum of the probabilities is equal to 1:
+
+where $\alpha$,$\beta$ $\in\mathbb{C}$ and $|\alpha|^2+|\beta|^2=1$. The complex numbers $\alpha$ and $\beta$ are referred to as probability amplitudes, and the probability of measuring the qubit in state $\ket{0}$ or $\ket{1}$ is given by $|\alpha|^2$ and $|\beta|^2$, respectively. The state $\ket{\psi}$ is normalized such that the sum of the probabilities is equal to 1:
 
 $$\braket{\psi|\psi}=\left(\alpha^\bra{0}+\beta^\bra{1}\right)\left(\alpha\ket{0}+\beta\ket{1}\right)=|\alpha|^2+|\beta|^2=1$$
 
