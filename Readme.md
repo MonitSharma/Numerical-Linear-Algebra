@@ -19,7 +19,7 @@ Quantum computing is a rapidly growing field that has the potential to revolutio
 This section of the repository will cover the basics of linear algebra. It will include topics such as vectors, matrices, linear transformations, and eigenvalues/eigenvectors. The content will be presented in a way that is accessible to beginners, with examples and exercises to solidify understanding.
 
 
-![](https://tikz.net/files/reference_frame_rotational.gif)
+
 
 | Serial Number | Title                                     | Description                                         | Links     | Medium                                                                                |
 | ------------- | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
@@ -44,7 +44,7 @@ This section of the repository will cover the basics of linear algebra. It will 
 This section of the repository will cover advanced topics in computational numerical linear algebra. It will include topics such as singular value decomposition (SVD), QR decomposition, and LU decomposition. The content will be presented with a focus on their applications in quantum computing, and will include exercises and projects to solidify understanding.
 
 
-![](https://tikz.net/janosh/tori.png)
+
 
 
 
@@ -67,7 +67,7 @@ This section of the repository will cover advanced topics in computational numer
 
 ## [Applications in Quantum Computing](https://github.com/MonitSharma/Qiskit-Hindi-Tutorials/blob/main/qiskit_hindi_basic_gates_part2.ipynb)
 
-![](https://tikz.net/files/complex.gif)
+
 
 
 This section of the repository will cover the applications of linear algebra and computational numerical linear algebra in quantum computing. It will include topics such as quantum gates, quantum circuits, and quantum algorithms. The content will be presented in a way that is accessible to beginners, with examples and exercises to solidify understanding. This will be covered in detail in another repository.
