@@ -1,7 +1,7 @@
 # Linear Algebra for Quantum Computing
 
 
-
+![](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/GIFs/RealisticPlayfulCygnet.gif)
 
 
 This repository is aimed at providing an introduction to the basics of linear algebra and advanced computational numerical linear algebra with a focus on applications in quantum computing.
