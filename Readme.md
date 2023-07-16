@@ -69,7 +69,13 @@ This section of the repository will cover advanced topics in computational numer
 -----
 
 
-## [Applications in Quantum Computing](https://github.com/MonitSharma/Qiskit-Hindi-Tutorials/blob/main/qiskit_hindi_basic_gates_part2.ipynb)
+## [Applications in Quantum Computing](https://monitsharma.github.io/Learn-Quantum-Computing-with-Qiskit/)
+
+| Serial Number | Title                                | Description                     | Links             | Medium                                                                              |                                                                        
+| ------------- | ------------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
+| 1             | Introduction to Complex Arithemetic            | This is a tutorial designed to introduce you to complex arithmetic. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit/blob/main/Complex%20Arithmetic.ipynb) |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-complex-arithmetic-453d5f15638b) |
+| 2             | Introduction to Linear Algebra           | This is a tutorial designed to introduce you to Linear Algebra. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/Linear%20Algebra%20Background.ipynb) |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-linear-algebra-501587c3297d) |
+
 
 
 
