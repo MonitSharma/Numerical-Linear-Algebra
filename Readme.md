@@ -1,10 +1,7 @@
 [←←Back to Homepage](https://monitsharma.github.io/)
 
 
-# Linear Algebra
-
-
-![](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/GIFs/RealisticPlayfulCygnet.gif)
+# Learn Linear Algebra via Programming
 
 
 This repository is aimed at providing an introduction to the basics of linear algebra and advanced computational numerical linear algebra with a focus on applications in quantum computing.
@@ -13,16 +10,23 @@ This repository is aimed at providing an introduction to the basics of linear al
 Quantum computing is a rapidly growing field that has the potential to revolutionize the way we process and analyze information. Linear algebra forms an essential part of the mathematical framework used in quantum computing. In this article, we will explore the role of linear algebra in quantum computing, including its importance in representing quantum states, quantum gates, and quantum algorithms.
 
 
-## Check the full Blog series [here](https://medium.com/@_monitsharma/list/computational-linear-algebra-c25866dd2935)
+Check the full Blog series [here](https://medium.com/@_monitsharma/list/computational-linear-algebra-c25866dd2935)
 
 
------
 
-## [Introduction to Linear Algebra](https://github.com/MonitSharma/Numerical-Linear-Algebra/tree/main/Basic%20Numerical%20Linear%20Algebra)
+## Table
+
+- [Introductory Linear Algebra](#introduction-to-linear-algebra)
+- [Advanced Linear Algebra](#use-cases-of-linear-algebra)
+- [Linear Algebra for Quantum Computing](#applications-in-quantum-computing)
+
+
+
+## Content
+
+
+### Introduction to Linear Algebra
 This section of the repository will cover the basics of linear algebra. It will include topics such as vectors, matrices, linear transformations, and eigenvalues/eigenvectors. The content will be presented in a way that is accessible to beginners, with examples and exercises to solidify understanding.
-
-
-
 
 
 | Serial Number | Title                                     | Description                                         | Links     | Medium                                                                                |
@@ -40,16 +44,13 @@ This section of the repository will cover the basics of linear algebra. It will 
 | 11            | The determinant                           | Explanation of the determinant of a matrix         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/11-The_Determinant.ipynb) |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-trace-and-determinant-d4c01523cb6c) |
 
 
+---
 
 
-----
 
-## [Advanced Computational Numerical Linear Algebra](https://github.com/MonitSharma/Numerical-Linear-Algebra/tree/main/Advanced%20Numerical%20Linear%20Algebra)
+
+### Use cases of Linear Algebra
 This section of the repository will cover advanced topics in computational numerical linear algebra. It will include topics such as singular value decomposition (SVD), QR decomposition, and LU decomposition. The content will be presented with a focus on their applications in quantum computing, and will include exercises and projects to solidify understanding.
-
-
-
-
 
 
 | Serial Number | Title                                | Description                     | Links             | Medium                                                                              |                                                                        
@@ -65,11 +66,10 @@ This section of the repository will cover advanced topics in computational numer
 
 
 
+---
 
------
 
-
-## [Applications in Quantum Computing](https://monitsharma.github.io/Learn-Quantum-Computing-with-Qiskit/)
+### Applications in Quantum Computing
 
 | Serial Number | Title                                | Description                     | Links             | Medium                                                                              |                                                                        
 | ------------- | ------------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
@@ -85,13 +85,13 @@ This section of the repository will cover advanced topics in computational numer
 This section of the repository will cover the applications of linear algebra and computational numerical linear algebra in quantum computing. It will include topics such as quantum gates, quantum circuits, and quantum algorithms. The content will be presented in a way that is accessible to beginners, with examples and exercises to solidify understanding. This will be covered in detail in another repository.
 
 
-----
+
 
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-----
+
 
 
 ## Prerequisites
@@ -102,7 +102,7 @@ This project requires Python 3.x and Jupyter Notebook. You can install Python fr
 pip install jupyter
 ```
 
-----
+
 
 
 ## Installation
@@ -112,7 +112,7 @@ To get started, simply clone the repository:
 git clone https://github.com/MonitSharma/Numerical-Linear-Algebra.git
 ```
 
------
+
 
 
 ## Usage
@@ -125,19 +125,18 @@ jupyter notebook
 This will start the Jupyter Notebook server and open a web page in your browser. Click on the notebook you want to open and start exploring the content.
 
 
------
 
 
 ## Contributing
 Contributions are welcome! Please feel free to open an issue if you find a bug or have a suggestion for improvement. Pull requests are also welcome.
 
------
+
 
 
 ## License
 This repository is licensed under the MIT License.
 
-------
+
 
 
 ## Acknowledgements
